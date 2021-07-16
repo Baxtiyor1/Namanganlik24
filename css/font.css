@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/rubik-v14-latin-regular.woff2') format('woff2'),
+         url('../fonts/rubik-v14-latin-regular.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    src: local(''),
+         url('../fonts/rubik-v14-latin-500.woff2') format('woff2'), 
+         url('../fonts/rubik-v14-latin-500.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+         url('../fonts/rubik-v14-latin-700.woff2') format('woff2'), 
+         url('../fonts/rubik-v14-latin-700.woff') format('woff');
+  }
+
+  /* rubik-regular - cyrillic */
+@font-face {
+     font-family: 'Rubik';
+     font-style: normal;
+     font-weight: 400;
+     src: local(''),
+          url('../fonts/rubik-v14-cyrillic-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+          url('../fonts/rubik-v14-cyrillic-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+   }
+   /* rubik-500 - cyrillic */
+   @font-face {
+     font-family: 'Rubik';
+     font-style: normal;
+     font-weight: 500;
+     src: local(''),
+          url('../fonts/rubik-v14-cyrillic-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+          url('../fonts/rubik-v14-cyrillic-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+   }
+   /* rubik-700 - cyrillic */
+   @font-face {
+     font-family: 'Rubik';
+     font-style: normal;
+     font-weight: 700;
+     src: local(''),
+          url('../fonts/rubik-v14-cyrillic-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+          url('../fonts/rubik-v14-cyrillic-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+   }
